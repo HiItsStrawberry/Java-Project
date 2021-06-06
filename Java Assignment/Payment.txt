@@ -1,0 +1,32 @@
+PaymentID:10001
+Date:None
+OrderID:10001
+Sender:Customer257
+Recipient:Customer123
+Shipping Fee:0.0
+Paid:0
+
+PaymentID:10002
+Date:06/12/2020
+OrderID:10002
+Sender:Customer257
+Recipient:Customer123
+Shipping Fee:11.0
+Paid:1
+
+PaymentID:10003
+Date:07/12/2020
+OrderID:10003
+Sender:Customer123
+Recipient:Customer257
+Shipping Fee:5.0
+Paid:1
+
+PaymentID:10004
+Date:None
+OrderID:10004
+Sender:Customer257
+Recipient:Customer123
+Shipping Fee:0.0
+Paid:0
+

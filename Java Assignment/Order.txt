@@ -1,0 +1,52 @@
+OrderID:10001
+Order Date:07/12/2020
+Order Status:Processing
+Order Rating:None
+Order Feedback:None
+Delivery Staff:None
+Sender:Customer257
+Recipient:Customer123
+Sender's Contact:012-3456789
+Recipient's Contact:019-8765432
+Sender's Address:Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+Recipient's Address:Jalan Universiti, 50603 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+
+OrderID:10002
+Order Date:06/12/2020
+Order Status:Delivered
+Order Rating:3|Average
+Order Feedback:Average Delivery Time
+Delivery Staff:Marcus
+Sender:Customer123
+Recipient:Customer257
+Sender's Contact:012-3456789
+Recipient's Contact:019-8765432
+Sender's Address:Jalan Teknologi 5, Taman Teknologi Malaysia, 57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+Recipient's Address:Jalan Universiti, 50603 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur
+
+OrderID:10003
+Order Date:07/12/2020
+Order Status:Delivering
+Order Rating:None
+Order Feedback:None
+Delivery Staff:Quek
+Sender:Customer123
+Recipient:Customer257
+Sender's Contact:019-8765432
+Recipient's Contact:012-3456789
+Sender's Address:5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor
+Recipient's Address:Jalan Lagoon Selatan, Bandar Sunway, 47500 Subang Jaya, Selangor
+
+OrderID:10004
+Order Date:07/12/2020
+Order Status:Processing
+Order Rating:None
+Order Feedback:None
+Delivery Staff:None
+Sender:Customer257
+Recipient:Customer123
+Sender's Contact:012-3456789
+Recipient's Contact:019-8765432
+Sender's Address:5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor
+Recipient's Address:Jalan Lagoon Selatan, Bandar Sunway, 47500 Subang Jaya, Selangor
+
