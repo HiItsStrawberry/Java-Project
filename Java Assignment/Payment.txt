@@ -3,7 +3,7 @@ Date:None
 OrderID:10001
 Sender:Customer257
 Recipient:Customer123
-Shipping Fee:0.0
+Shipping Fee:10.0
 Paid:0
 
 PaymentID:10002
